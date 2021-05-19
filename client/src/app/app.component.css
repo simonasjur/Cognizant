@@ -1,0 +1,17 @@
+mat-form-field {
+    display: block;
+}
+
+form {
+    width: 600px;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+
+span {
+    margin-left: 80px;
+}
+
+textarea {
+    height: 200px;
+}
